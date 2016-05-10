@@ -7,4 +7,4 @@ Input :
 
 Output :
 
-![alt tag](https://github.com/damnedx/GeneticDraw/blob/master/Image/Joconde_test.png)
+![alt tag](https://github.com/damnedx/GeneticDraw/blob/master/Image/Joconde_result.png)
